@@ -30,6 +30,7 @@ const SelectEl = styled.select`
   padding-right: 60px;
   height: 50px;
   font-size: 1rem;
+  text-transform: capitalize;
 `;
 
 export default function Select(props) {
